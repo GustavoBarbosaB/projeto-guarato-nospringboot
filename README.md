@@ -6,17 +6,17 @@
 
 _Entrada:_ 
 Comprador (Somente 1)<br/>
-Nome<br/>
-CPF<br/>
-Endereço: logradouro, número, complemento, bairro, cidade, estado 
-Vendedor (Somente 1)
-Razão Social 
-CNPJ
-Itens (1 ou mais)
-Descrição
-Quantidade
-Valor unitário
-_Saída: identificador, data e status do pedido_
+  Nome<br/>
+  CPF<br/>
+Endereço: logradouro, número, complemento, bairro, cidade, estado<br/> 
+Vendedor (Somente 1)<br/>
+  Razão Social <br/>
+  CNPJ<br/>
+Itens (1 ou mais)<br/>
+  Descrição<br/>
+  Quantidade<br/>
+Valor unitário<br/>
+_Saída: identificador, data e status do pedido_<br/>
 
 * _* Atualizar Pedido *_
  
