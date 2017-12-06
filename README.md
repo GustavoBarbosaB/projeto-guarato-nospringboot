@@ -2,20 +2,20 @@
 
 ### Segue abaixo a descrição do projeto:
 
-_*Criar Pedido*_
+_* Criar Pedido *_
 
 _Entrada:_ 
 	Comprador (Somente 1)
- 		Nome *
- 		CPF *
- 		Endereço: logradouro *, número *, complemento, bairro *, cidade *, estado *
+ 		Nome
+ 		CPF
+ 		Endereço: logradouro, número, complemento, bairro, cidade, estado 
  	Vendedor (Somente 1)
- 		Razão Social *
- 		CNPJ *
+ 		Razão Social 
+ 		CNPJ
  	Itens (1 ou mais)
- 		Descrição *
- 		Quantidade *
- 		Valor unitário *
+ 		Descrição
+ 		Quantidade
+ 		Valor unitário
  _Saída: identificador, data e status do pedido_
 
  _*Atualizar Pedido*_
