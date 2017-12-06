@@ -5,9 +5,9 @@
 * _* Criar Pedido *_
 
 _Entrada:_ 
-Comprador (Somente 1)
-Nome
-CPF
+Comprador (Somente 1)<br/>
+Nome<br/>
+CPF<br/>
 Endereço: logradouro, número, complemento, bairro, cidade, estado 
 Vendedor (Somente 1)
 Razão Social 
